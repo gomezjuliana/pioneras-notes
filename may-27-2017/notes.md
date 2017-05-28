@@ -2,14 +2,14 @@
 
 Lizet's slides: [here](http://slides.com/lizetjaramillo/agiletesting#/)
 
-######Kanban
+##### Kanban
 - very modifi-able
 
-######XP
+##### XP
 - stands out b/c client satisfaction is most important
 - clients write their own user stories
 
-######Scrum 
+##### Scrum 
 -> most popular b/c it's light and easy to understand
 -> hard to master though b/c clients are always right but don't have clear ideas
 -- title
@@ -17,7 +17,7 @@ Lizet's slides: [here](http://slides.com/lizetjaramillo/agiletesting#/)
 -- action
 -- why
 
-######Testing Manifesto
+##### Testing Manifesto
 - test throughout the process
 - prevent errors as much as possible so we don't find them
 - understand what the client really needs
@@ -27,7 +27,7 @@ Lizet's slides: [here](http://slides.com/lizetjaramillo/agiletesting#/)
 
 - agile testing works from the bottom up and automates as much as possible
 
-######Resources
+##### Resources
 [Manifesto for Agile Software Development](http://agilemanifesto.org/iso/en/manifesto.html)
 
 # Angular
