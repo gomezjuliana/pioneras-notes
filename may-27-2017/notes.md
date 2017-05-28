@@ -40,6 +40,7 @@ Slides: *to be added*
 - define class then decorators (define what the class does) - @ w/ metadata
 - angular lets you extend HTML by creating new element tags
 - one class per component  
+
 :sparkle: *plnker.co -> like CodePen but for JS frameworks*
 
 ### Directives
