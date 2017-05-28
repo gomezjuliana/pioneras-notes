@@ -1,16 +1,15 @@
 # Agile Testing
 
-[Slides](http://slides.com/lizetjaramillo/agiletesting#/)
+Lizet's slides: [here](http://slides.com/lizetjaramillo/agiletesting#/)
 
-- Kanban
--> very modifi-able
+#####Kanban
+- very modifi-able
 
+#####XP
+- stands out b/c client satisfaction is most important
+- clients write their own user stories
 
-- XP
--> stands out: client satisfaction is most important
--> clients write their own user stories
-
-Scrum 
+#####Scrum 
 -> most popular b/c it's light and easy to understand
 -> hard to master though b/c clients are always right but don't have clear ideas
 -- title
@@ -18,20 +17,20 @@ Scrum
 -- action
 -- why
 
-Testing Manifesto
-- tests throughout the process
+#####Testing Manifesto
+- test throughout the process
 - prevent errors as much as possible so we don't find them
 - understand what the client really needs
 - create the best system w/o bugs
 - responsibility falls on the team to make sure it's good quality
--- reduce documentation but include it
+- reduce documentation but include it
 
 - agile testing works from the bottom up and automates as much as possible
 
-*Resources*
+###Resources
 [Manifesto for Agile Software Development](http://agilemanifesto.org/iso/en/manifesto.html)
 
-Angular
+# Angular
 - works with typeScript or Javascript
 - has components - helps scale easier b/c you can pick and choose which components change w/o changes absolutely everything
 - ex: youtube copy, components: play bar, cards, header, side bar
