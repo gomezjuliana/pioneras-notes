@@ -19,7 +19,7 @@ Lizet's slides: [here](http://slides.com/lizetjaramillo/agiletesting#/)
 - understand what the client really needs
 - create the best system w/o bugs
 - responsibility falls on the team to make sure it's good quality
-- reduce documentation but include it
+- reduce documentation but include it  
 
 :sparkle: agile testing works from the bottom up and automates as much as possible
 
@@ -39,7 +39,7 @@ Slides: *to be added*
 - component is a mix of logic(behaviour) and HTML
 - define class then decorators (define what the class does) - @ w/ metadata
 - angular lets you extend HTML by creating new element tags
-- one class per component
+- one class per component  
  :sparkle: *plnker.co -> like CodePen but for JS frameworks*
 
 ### Directives
